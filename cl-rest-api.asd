@@ -5,7 +5,7 @@
 |#
 
 (in-package #:cl-user)
-(asdf:defsystem rest-api
+(asdf:defsystem cl-rest-api
   :version "0.0.0"
   :license "BSD-3"
   :author "Ben Hanna <benpaulhanna@gmail.com>"
